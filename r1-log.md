@@ -9,3 +9,5 @@ The log of my #100DaysOfCode challenge. Started on September 15, Monday, 2025.
 Fixed the three pieces of the Cat Photo App that hadn't registered. Started on the Certification project #1 (Survey Form). Time: approximately 2 hours.
 
 ### R1D2
+**Free Code Camp Responsive Web Design**
+Worked on the Certification project #1 (Survey Form). Time: approximately 2 hours. So far, all but one test has passed.
